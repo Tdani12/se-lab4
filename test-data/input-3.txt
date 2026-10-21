@@ -1,0 +1,5 @@
+# 2.-bol is lovunk
+gt4500,3,0,1,0
+torpedo,single
+torpedo,single
+torpedo,single
