@@ -1,0 +1,3 @@
+# minden torpedó
+gt4500,10,0,10,0
+torpedo,all
